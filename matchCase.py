@@ -1,7 +1,7 @@
 class Point:
     def __init__(self, x, y):
         self.x = x
-        self.y= y
+        self.y = y
 
 
 def where(point):
@@ -18,6 +18,7 @@ def where(point):
             print("Not a point")
 
 
-where(Point(1,2))
-where(Point(0,5))
-where(Point(0,0))
+where(Point(1, 2))
+where(Point(0, 5))
+where(Point(0, 0))
+where(Point)
