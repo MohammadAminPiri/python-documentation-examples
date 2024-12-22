@@ -14,6 +14,7 @@ def where(point):
             print(f"X={x}")
         case Point():
             print("Somewhere else")
+        # the “variable name” _ acts as a wildcard and never fails to match. If no case matches, none of the branches is executed.
         case _:
             print("Not a point")
 
