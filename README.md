@@ -1,11 +1,6 @@
-Here’s a detailed and professional `README.md` template for your Python documentation repository. This structure will help guide contributors and make the repository accessible to learners.
-
----
-
-```markdown
 # Python Documentation Examples and Definitions
 
-Welcome to the **Python Documentation Examples and Definitions** repository! 🎉  
+Welcome to the **Python Documentation Definitions, Examples** repository! 🎉  
 This project is a curated collection of examples, explanations, and deeper insights into Python's official documentation topics. It aims to make Python's concepts easier to understand for learners and developers at all levels.
 
 ## Table of Contents
@@ -30,7 +25,7 @@ Whether you're a beginner or looking to refine your understanding of Python, thi
 ## Getting Started
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/python-documentation-examples.git
+   git clone https://github.com/MohammadAminPiri/python-documentation-examples.git
    cd python-documentation-examples
    ```
 
